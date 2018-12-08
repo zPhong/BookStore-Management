@@ -1,0 +1,227 @@
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\GUI.exe
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\GUI.pdb
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\GUI.xml
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\Bus.dll
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DTO.dll
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DAL.dll
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\Bus.pdb
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\Bus.xml
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DTO.pdb
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DTO.xml
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DAL.pdb
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DAL.xml
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.exe
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.xml
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.pdb
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\NAM\Google Drive\NhaSach\GUI\obj\Debug\GUI.exe
+C:\Users\NAM\Google Drive\NhaSach\GUI\obj\Debug\GUI.xml
+C:\Users\NAM\Google Drive\NhaSach\GUI\obj\Debug\GUI.pdb
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\GUI.exe
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\GUI.pdb
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\GUI.xml
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\Bus.dll
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\DTO.dll
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\DAL.dll
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\Bus.pdb
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\Bus.xml
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\DTO.pdb
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\DTO.xml
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\DAL.pdb
+C:\Users\NAM\Google Drive\NhaSach\GUI\bin\Debug\DAL.xml
+C:\Users\NAM\Google Drive\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Google Drive\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\NAM\Google Drive\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\NAM\Google Drive\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+E:\NhaSach\GUI\bin\Debug\GUI.exe.config
+E:\NhaSach\GUI\obj\Debug\GUI.exe
+E:\NhaSach\GUI\obj\Debug\GUI.xml
+E:\NhaSach\GUI\obj\Debug\GUI.pdb
+E:\NhaSach\GUI\bin\Debug\GUI.exe
+E:\NhaSach\GUI\bin\Debug\GUI.pdb
+E:\NhaSach\GUI\bin\Debug\GUI.xml
+E:\NhaSach\GUI\bin\Debug\Bus.dll
+E:\NhaSach\GUI\bin\Debug\DTO.dll
+E:\NhaSach\GUI\bin\Debug\DAL.dll
+E:\NhaSach\GUI\bin\Debug\Bus.pdb
+E:\NhaSach\GUI\bin\Debug\Bus.xml
+E:\NhaSach\GUI\bin\Debug\DTO.pdb
+E:\NhaSach\GUI\bin\Debug\DTO.xml
+E:\NhaSach\GUI\bin\Debug\DAL.pdb
+E:\NhaSach\GUI\bin\Debug\DAL.xml
+E:\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+E:\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+E:\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+E:\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\GUI.exe
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\GUI.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\GUI.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\Bus.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\DTO.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\DAL.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\Bus.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\Bus.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\DTO.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\DTO.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\DAL.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\bin\Debug\DAL.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuBanSach.resources
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.exe
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.ChinhSuaQuyDinh.resources
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\User\Google Drive\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuThuTien.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\GUI.exe
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\GUI.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\GUI.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\Bus.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DTO.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\FormatChecking.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\Geocoding.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\libphonenumber.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DAL.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\Bus.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\Bus.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\Bus.dll.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DTO.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DTO.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DTO.dll.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DAL.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DAL.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\bin\Debug\DAL.dll.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.vbproj.GUI.exe.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.ChinhSuaQuyDinh.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.PhieuBanSach.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.PhieuBaoCao.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.PhieuThuTien.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.PhieuTraCuu.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.exe
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.LienHe.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.exe
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.xml
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\GUI.exe
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\GUI.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\GUI.xml
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\Bus.dll
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\DTO.dll
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\DAL.dll
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\Bus.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\Bus.xml
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\DTO.xml
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\bin\Debug\DAL.xml
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.vbproj.GUI.exe.config
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.ChinhSuaQuyDinh.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.LienHe.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuBanSach.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuBaoCao.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuThuTien.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.PhieuTraCuu.resources
+C:\Users\User\Desktop\CNPM\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\Bus.dll.config
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DTO.dll.config
+C:\Users\NAM\Desktop\NhaSach\GUI\bin\Debug\DAL.dll.config
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.ChinhSuaQuyDinh.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.LienHe.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuBanSach.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuBaoCao.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuThuTien.resources
+C:\Users\NAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuTraCuu.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\GUI.exe
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\GUI.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\GUI.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\Bus.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DTO.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DAL.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\Bus.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\Bus.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\Bus.dll.config
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DTO.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DTO.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DTO.dll.config
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DAL.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DAL.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\bin\Debug\DAL.dll.config
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.ChinhSuaQuyDinh.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.LienHe.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuBanSach.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuBaoCao.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuThuTien.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.PhieuTraCuu.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.vbproj.CoreCompileInputs.cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.exe
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\GUI\obj\Debug\GUI.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.exe.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.exe
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\GUI.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.dll
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\Bus.dll.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\bin\Debug\DAL.dll.config
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.ChinhSuaQuyDinh.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.LienHe.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.LoginForm.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.MainForm.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuBanSach.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuBaoCao.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuThuTien.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.PhieuTraCuu.resources
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.vbproj.CopyComplete
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.exe
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.xml
+E:\Linh tinh\SavedProject\NhaSach\GUI\obj\Debug\GUI.pdb

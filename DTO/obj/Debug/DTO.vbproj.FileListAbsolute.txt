@@ -1,0 +1,70 @@
+C:\Users\NAM\Desktop\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\NAM\Desktop\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\NAM\Desktop\NhaSach\DTO\obj\Debug\DTO.xml
+C:\Users\NAM\Desktop\NhaSach\DTO\bin\Debug\DTO.dll.config
+C:\Users\NAM\Desktop\NhaSach\DTO\bin\Debug\DTO.dll
+C:\Users\NAM\Desktop\NhaSach\DTO\bin\Debug\DTO.pdb
+C:\Users\NAM\Desktop\NhaSach\DTO\bin\Debug\DTO.xml
+C:\Users\NAM\Desktop\NhaSach\DTO\obj\Debug\DTO.dll
+C:\Users\NAM\Desktop\NhaSach\DTO\obj\Debug\DTO.pdb
+C:\Users\NAM\Google Drive\NhaSach\DTO\bin\Debug\DTO.dll.config
+C:\Users\NAM\Google Drive\NhaSach\DTO\bin\Debug\DTO.dll
+C:\Users\NAM\Google Drive\NhaSach\DTO\bin\Debug\DTO.pdb
+C:\Users\NAM\Google Drive\NhaSach\DTO\bin\Debug\DTO.xml
+C:\Users\NAM\Google Drive\NhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Google Drive\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\NAM\Google Drive\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\NAM\Google Drive\NhaSach\DTO\obj\Debug\DTO.dll
+C:\Users\NAM\Google Drive\NhaSach\DTO\obj\Debug\DTO.xml
+C:\Users\NAM\Google Drive\NhaSach\DTO\obj\Debug\DTO.pdb
+E:\NhaSach\DTO\bin\Debug\DTO.dll.config
+E:\NhaSach\DTO\bin\Debug\DTO.dll
+E:\NhaSach\DTO\bin\Debug\DTO.pdb
+E:\NhaSach\DTO\bin\Debug\DTO.xml
+E:\NhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+E:\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+E:\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+E:\NhaSach\DTO\obj\Debug\DTO.dll
+E:\NhaSach\DTO\obj\Debug\DTO.xml
+E:\NhaSach\DTO\obj\Debug\DTO.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\bin\Debug\DTO.dll.config
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\bin\Debug\DTO.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\bin\Debug\DTO.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\bin\Debug\DTO.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\obj\Debug\DTO.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\obj\Debug\DTO.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\obj\Debug\DTO.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\bin\Debug\DTO.dll.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\bin\Debug\DTO.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\bin\Debug\DTO.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\bin\Debug\DTO.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\obj\Debug\DTO.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\obj\Debug\DTO.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DTO\obj\Debug\DTO.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\bin\Debug\DTO.dll.config
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\bin\Debug\DTO.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\bin\Debug\DTO.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\bin\Debug\DTO.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.vbproj.CoreCompileInputs.cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DTO\obj\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\DTO\bin\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\DTO\obj\Debug\DTO.pdb

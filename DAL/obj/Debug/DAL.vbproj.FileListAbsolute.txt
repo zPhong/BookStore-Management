@@ -1,0 +1,110 @@
+C:\Users\NAM\Desktop\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\NAM\Desktop\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NAM\Desktop\NhaSach\DAL\bin\Debug\DAL.dll.config
+C:\Users\NAM\Desktop\NhaSach\DAL\bin\Debug\DAL.dll
+C:\Users\NAM\Desktop\NhaSach\DAL\bin\Debug\DAL.pdb
+C:\Users\NAM\Desktop\NhaSach\DAL\bin\Debug\DAL.xml
+C:\Users\NAM\Desktop\NhaSach\DAL\bin\Debug\DTO.dll
+C:\Users\NAM\Desktop\NhaSach\DAL\bin\Debug\DTO.pdb
+C:\Users\NAM\Desktop\NhaSach\DAL\bin\Debug\DTO.xml
+C:\Users\NAM\Desktop\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Desktop\NhaSach\DAL\obj\Debug\DAL.dll
+C:\Users\NAM\Desktop\NhaSach\DAL\obj\Debug\DAL.xml
+C:\Users\NAM\Desktop\NhaSach\DAL\obj\Debug\DAL.pdb
+C:\Users\NAM\Google Drive\NhaSach\DAL\bin\Debug\DAL.dll.config
+C:\Users\NAM\Google Drive\NhaSach\DAL\bin\Debug\DAL.dll
+C:\Users\NAM\Google Drive\NhaSach\DAL\bin\Debug\DAL.pdb
+C:\Users\NAM\Google Drive\NhaSach\DAL\bin\Debug\DAL.xml
+C:\Users\NAM\Google Drive\NhaSach\DAL\bin\Debug\DTO.dll
+C:\Users\NAM\Google Drive\NhaSach\DAL\bin\Debug\DTO.pdb
+C:\Users\NAM\Google Drive\NhaSach\DAL\bin\Debug\DTO.xml
+C:\Users\NAM\Google Drive\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Google Drive\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\NAM\Google Drive\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NAM\Google Drive\NhaSach\DAL\obj\Debug\DAL.dll
+C:\Users\NAM\Google Drive\NhaSach\DAL\obj\Debug\DAL.xml
+C:\Users\NAM\Google Drive\NhaSach\DAL\obj\Debug\DAL.pdb
+E:\NhaSach\DAL\bin\Debug\DAL.dll.config
+E:\NhaSach\DAL\bin\Debug\DAL.dll
+E:\NhaSach\DAL\bin\Debug\DAL.pdb
+E:\NhaSach\DAL\bin\Debug\DAL.xml
+E:\NhaSach\DAL\bin\Debug\DTO.dll
+E:\NhaSach\DAL\bin\Debug\DTO.pdb
+E:\NhaSach\DAL\bin\Debug\DTO.xml
+E:\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+E:\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+E:\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\NhaSach\DAL\obj\Debug\DAL.dll
+E:\NhaSach\DAL\obj\Debug\DAL.xml
+E:\NhaSach\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\bin\Debug\DAL.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\bin\Debug\DAL.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\bin\Debug\DTO.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\bin\Debug\DTO.pdb
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\bin\Debug\DTO.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\obj\Debug\DAL.dll
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\obj\Debug\DAL.xml
+C:\Users\User\Google Drive\CNPM\NhaSach\DAL\obj\Debug\DAL.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DAL.dll.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DAL.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DAL.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DAL.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DTO.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DTO.pdb
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DTO.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\bin\Debug\DTO.dll.config
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\obj\Debug\DAL.dll
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\obj\Debug\DAL.xml
+C:\Users\NAM\Documents\Visual Studio 2017\Projects\NhaSach\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\bin\Debug\DAL.xml
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\bin\Debug\DTO.dll
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\bin\Debug\DTO.xml
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\obj\Debug\DAL.xml
+C:\Users\User\Desktop\CNPM\NhaSach\DAL\obj\Debug\DAL.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DAL.dll.config
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DAL.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DAL.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DAL.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DTO.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DTO.pdb
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DTO.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\bin\Debug\DTO.dll.config
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.dll
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.xml
+C:\Users\LÊHOÀNGNAM\Desktop\NhaSach\DAL\obj\Debug\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Debug\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.vbproj.CopyComplete
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Debug\DAL.pdb

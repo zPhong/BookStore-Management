@@ -1,0 +1,16 @@
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DAL.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DAL.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DTO.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DTO.pdb
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DTO.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\bin\Release\DTO.dll.config
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.vbprojResolveAssemblyReference.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.Resources.resources
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.vbproj.GenerateResource.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.vbproj.CoreCompileInputs.cache
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.vbproj.CopyComplete
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.dll
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.xml
+E:\Linh tinh\SavedProject\NhaSach\DAL\obj\Release\DAL.pdb
